@@ -1,7 +1,11 @@
-### Õâ¸ö·ÖÖ§Ê¹ÓÃcocos studioºÍcocos2d-x-3.10ÎÈ¶¨°æ¿ª·¢£¬¸ù¾İÔ­ÓĞ²¼¾ÖÅäÖÃÀ´½âÎöÔËĞĞµÄ£¬ ²»ÔÙÊ¹ÓÃtiled map editor¡£
+### è¿™ä¸ªåˆ†æ”¯ä½¿ç”¨cocos studioå’Œcocos2d-x-3.10ç¨³å®šç‰ˆå¼€å‘ï¼Œæ ¹æ®åŸæœ‰å¸ƒå±€é…ç½®æ¥è§£æè¿è¡Œçš„ï¼Œ ä¸å†ä½¿ç”¨tiled map editorã€‚
 
-#### ÏêÇé²ÎÕÕ[master·ÖÖ§][1]µÄËµÃ÷
+#### è¯¦æƒ…å‚ç…§[masteråˆ†æ”¯][1]çš„è¯´æ˜
 
-#### [master·ÖÖ§][1]Ôİ²»¼ÌĞø¿ª·¢£¬¹¦ÄÜ»áÂıÂı×ªÒÆµ½±¾·ÖÖ§ÉÏ
+#### [masteråˆ†æ”¯][1]æš‚ä¸ç»§ç»­å¼€å‘ï¼ŒåŠŸèƒ½ä¼šæ…¢æ…¢è½¬ç§»åˆ°æœ¬åˆ†æ”¯ä¸Š
 
 [1]: https://github.com/120910383/mota/tree/master
+
+
+
+learning how to use cocos2dx to create games, now starts from mota(forked from https://github.com/120910383/mota/tree/master)
