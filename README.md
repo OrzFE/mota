@@ -6,6 +6,19 @@
 
 [1]: https://github.com/120910383/mota/tree/master
 
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
 
 
 learning how to use cocos2dx to create games, now starts from mota(forked from https://github.com/120910383/mota/tree/master)
